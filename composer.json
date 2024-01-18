@@ -1,0 +1,19 @@
+{
+  "name": "surayzeinrambe/belajarphphello",
+  "description": "Library Composer Hello",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "suryazeinrambe\\Belajar\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Surya Zein Rambe",
+      "email": "suryazein2002@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  }
+}
